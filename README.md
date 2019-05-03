@@ -23,6 +23,7 @@ This lab will count for two lab assignments.
 
 | Item | Full Marks | Partial Marks | No Marks |
 |:--|:--|:--|:--|
-| Bootstrap Used for Page Design | 20 | 10 | 0 |
+| Bootstrap Used for Page Design | 10 | 5 | 0 |
 | Visual Presentation of all of the data is well designed and works properly | 70 | 35 | 0 |
+| Demonstration to Class | 10 | 5 | 0 |
 | HTML/CSS Validate | 10 | 5 | 0 |
